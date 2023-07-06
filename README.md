@@ -10,3 +10,4 @@
 
 * Methods such as map and reduce were used in the site.
 
+![alt text](img/menu.png)
